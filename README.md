@@ -4,6 +4,7 @@
 
 ```java
 public class Student {
+
    private String name = "Maotian Ma";
 
    private String role = "Postgraduate";
