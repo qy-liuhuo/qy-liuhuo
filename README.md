@@ -23,7 +23,7 @@ public class Student {
 <tr>
 <td valign="top" width="40%">
   
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=dark)]()
 
 </td>
 <td valign="top" width="60%">
