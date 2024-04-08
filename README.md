@@ -28,14 +28,19 @@ public class Student {
 
 <table width="100%" >
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="32%">
   
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=dark)]()
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="30%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=6&hide=VHDL,HTML,jupyter%20notebook,CSS,SCSS)](https://github.com/qy-liuhuo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,CSS,SCSS,Verilog,Vue,JavaScript)](https://github.com/qy-liuhuo/github-readme-stats)
+
+</td>
+<td valign="top" width="30%">
+   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=4&hide=VHDL,jupyter%20notebook,Verilog&custom_title=Most%20Used%20Frontend%20Languages)](https://github.com/qy-liuhuo/github-readme-stats)
 
 </td>
 </tr>
