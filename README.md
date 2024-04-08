@@ -35,7 +35,7 @@ public class Student {
 </td>
 <td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact)](https://github.com/qy-liuhuo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=6&hide=VHDL,HTML,jupyter%20notebook,CSS,SCSS)](https://github.com/qy-liuhuo/github-readme-stats)
 
 </td>
 </tr>
