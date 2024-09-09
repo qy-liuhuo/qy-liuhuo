@@ -28,12 +28,12 @@ public class Student {
 
 <table width="100%" >
 <tr>
-<td valign="top" width="32%">
+<td valign="top" width="52%">
   
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=dark)]()
 
 </td>
-<td valign="top" width="30%">
+<td valign="top" width="50%">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript)](https://github.com/qy-liuhuo/github-readme-stats)
 
