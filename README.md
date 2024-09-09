@@ -30,11 +30,11 @@ public class Student {
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript)](https://github.com/qy-liuhuo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&card_width=500&theme=radical)](https://github.com/qy-liuhuo/github-readme-stats )
 
 
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=dark)]()
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=radical&card_width=500)]()
 
 
 
