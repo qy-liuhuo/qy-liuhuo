@@ -30,12 +30,10 @@ public class Student {
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&card_width=500&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=compact&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&card_width=500&default#gh-light-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
-
-
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed#gh-dark-mode-only&card_width=500)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=default#gh-light-mode-only&card_width=500)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
 
 
 
