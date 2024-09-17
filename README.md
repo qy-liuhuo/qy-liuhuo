@@ -30,14 +30,14 @@ public class Student {
   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
+
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
 
 
-
-<h3 align="left">Skills:</h3>
+<table>
+   <td  style="border:0">
+      <h3 align="left">Skills:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -118,5 +118,14 @@ public class Student {
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
         width="40" height="40" /> </a> 
 </p>
+
+   </td>
+   <td  style="border:0">
+      
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
+
+   </td>
+</table>
 
 
