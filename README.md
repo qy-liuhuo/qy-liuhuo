@@ -31,8 +31,8 @@ public class Student {
 
 
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo#gh-dark-mode-only)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo#gh-light-mode-only)
 
 
 <table>
