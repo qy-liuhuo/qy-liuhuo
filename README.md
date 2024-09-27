@@ -122,8 +122,8 @@ public class Student {
    </td>
    <td  style="border:0">
       
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-dark-mode-only)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo/github-readme-stats#gh-light-mode-only)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo#gh-dark-mode-only)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo#gh-light-mode-only)
 
    </td>
 </table>
