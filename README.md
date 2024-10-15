@@ -17,6 +17,8 @@ public class Student {
 ```
 
 
+
+
 - 🏫 Graduated from [HBU](https://www.hbu.edu.cn/), now pursuing master's degree in [UESTC](https://www.uestc.edu.cn/)
 - 👤 I'am a member of [MobiNetS](https://mobinets.cn/site/Main_Page) 
 - 📑 Here is My [Blog](https://qylh.xyz/)
@@ -31,14 +33,14 @@ public class Student {
 
 
 
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo#gh-dark-mode-only)
+<!--[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo#gh-dark-mode-only)
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo#gh-light-mode-only)
+-->
 
-![](https://contribution.catsjuice.com/_/qy-liuhuo?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=30&theme=native)
+<img src="https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed" height="200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed" height="200"/>
 
-<table>
-   <td  style="border:0">
-      <h3 align="left">Skills:</h3>
+<div style="display:inline-block">
+<h3 align="left">Skills:</h3>
 <p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -118,16 +120,22 @@ public class Student {
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
         width="40" height="40" /> </a> 
-</p>
+</p></div><img src="https://contribution.catsjuice.com/_/qy-liuhuo?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_wave_center=0_0&weeks=30&theme=cyan&widget_size=small&format=svg" width="300"  style="display:inline-block;">
+
+<!--
+<table>
+   <td  style="border:0">
+      
 
    </td>
    <td  style="border:0">
       
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo#gh-dark-mode-only)
+   [![Top Langs](#gh-dark-mode-only)](https://github.com/qy-liuhuo#gh-dark-mode-only)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo#gh-light-mode-only)
 
    </td>
 </table>
+-->
 
 
 
