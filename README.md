@@ -128,4 +128,5 @@ public class Student {
    </td>
 </table>
 
+https://contribution.catsjuice.com/_/qy-liuhuo?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=30&theme=native
 
