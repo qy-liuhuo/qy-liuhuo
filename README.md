@@ -34,6 +34,7 @@ public class Student {
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed#gh-dark-mode-only)](https://github.com/qy-liuhuo#gh-dark-mode-only)
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo#gh-light-mode-only)
 
+![](https://contribution.catsjuice.com/_/qy-liuhuo?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=30&theme=native)
 
 <table>
    <td  style="border:0">
@@ -128,5 +129,5 @@ public class Student {
    </td>
 </table>
 
-https://contribution.catsjuice.com/_/qy-liuhuo?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=raise&weeks=30&theme=native
+
 
