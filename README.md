@@ -128,7 +128,7 @@ public class Student {
 <!-- <img src="https://contribution.catsjuice.com/_/qy-liuhuo?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_wave_center=0_0&weeks=30&theme=cyan&widget_size=small&format=svg" width="300"  style="display:inline-block;">
  -->
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-gitblock.svg)
 
 <!--
 <table>
