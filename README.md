@@ -41,7 +41,11 @@ public class Student {
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=default#gh-light-mode-only)](https://github.com/qy-liuhuo#gh-light-mode-only)
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed" height="200"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=qy-liuhuo&theme=github_dark_dimmed" height="200">
+
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qy-liuhuo&layout=donut&langs_count=4&hide=VHDL,HTML,jupyter%20notebook,tex,CSS,SCSS,Verilog,Vue,JavaScript&theme=github_dark_dimmed" height="200"/>
+-->
 
 <div style="display:inline-block">
 <h3 align="left">Skills:</h3>
